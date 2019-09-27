@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomViewNavigation</string>
+    <string name="nav_drawer_close"> Close Negavitaion Drawer </string>
+    <string name="nav_drawer_open"> Open Negavitaion Drawer </string>
+</resources>
